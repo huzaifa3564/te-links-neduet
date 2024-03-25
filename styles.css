@@ -1,0 +1,11 @@
+body {
+    background-color: #fbff00;
+}
+
+.teLinks {
+    margin: 0 auto;
+    color: blue;
+    text-align: center;
+    height: 300px;
+    width: 200px;
+}
